@@ -33,6 +33,7 @@ end
   * Dokumentation zu eurem Code-Beispiel (wie seid ihr vorgegangen, welche ästhetischen Überlegungen habt ihr angestellt usw.)
   * Vergleich Sonic Pi mit anderen Software-Lösungen
 
-Prüfungstermin: Samstag, 01.02.2020 - Sonntag, 15.03.2020
+## Termine für die Prüfung
 
-Wiederholungstermin: Freitag, 22.05.2020 - Sonntag, 21.06.2020
+* Prüfungstermin: Samstag, 01.02.2020 - Sonntag, 15.03.2020
+* Wiederholungstermin: Freitag, 22.05.2020 - Sonntag, 21.06.2020
