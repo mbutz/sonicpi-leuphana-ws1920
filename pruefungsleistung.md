@@ -34,4 +34,5 @@ end
   * Vergleich Sonic Pi mit anderen Software-Lösungen
 
 Prüfungstermin: Samstag, 01.02.2020 - Sonntag, 15.03.2020
+
 Wiederholungstermin: Freitag, 22.05.2020 - Sonntag, 21.06.2020
