@@ -32,11 +32,10 @@ Desweiteren bietet das Seminar Gelegenheit, sich mit den folgenden Fragen und Th
 * Grundlegende musiktheoretische Konzepte (z.B. Melodik, Harmonik, Rhythmik)
 * Grundlegende Konzepte der Akustik und digitaler Klangerzeugung (Synthesizer, Sampling)
 
-## Ressourcen zu Sonic Pi
+## Ressourcen zu Sonic Pi und Community
 
+* [Offizielle Community Website zu Sonic Pi](https://in-thread.sonic-pi.net)
 * [Offizielle Website und Download](http://sonic-pi.net/)
 * [Github: Entwicklerplattform](https://github.com/samaaron/sonic-pi)
-* [Offizielle Community zu Sonic Pi](https://in-thread.sonic-pi.net)
-* [Google Groups (weitgehend ersetzt durch 'In_Thread')](https://groups.google.com/forum/#!forum/sonic-pi)
 
 [Zur Sessionübersicht](https://github.com/mbutz/sonicpi-leuphana-ws1920/blob/master/session-overview.md)
