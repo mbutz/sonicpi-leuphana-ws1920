@@ -121,6 +121,7 @@ Datum: 11.12.2019
 
 - WDR3 Studio Elektronische Musik Stockhausen - Kontakte, Radio-Feature online:  https://www.youtube.com/watch?v=kBP1v29cx60
 - Karlheinz Stockhausen (1978): Die vier Kriterien der elektronischen Musik, in: Texte zur Musik, Bd. 4, Köln: DuMont, S. 360-401; als Skript eines Vortrag vom 14.09.72 online: http://www.elektropolis.de/ssb_story_stockhausen.htm
+- The Earth-Shaking Instrument Stockhausen Used | Rohde & Schwarz UBM, Hainbach, https://www.youtube.com/watch?v=En24uIjiGsg
 - Polyrhythms; a presentation of Adam Neely about how the harmony of the spheres, Isaac Newton, and polyhythms are connected at Berlin, Ableton Loop, March 27, 2018, http://cdm.link/2018/03/watch-ableton-loop-talk-connects-polyrhythms-synesthesia/ (insbesondere zum 1. Kriterium der elektronischen Musik nach Stockhausen)
 
 ## Session 6: Elektronische Musik II: Electronica, musikalische Analyse
