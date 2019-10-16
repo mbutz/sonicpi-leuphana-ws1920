@@ -18,9 +18,10 @@ Die folgende Seminarübersicht ist vorläufig und wird je nach Interesse und Ler
 Datum: 16.10.2019
 
 - Vorstellung der TeilnehmerInnen und des Dozenten
-- Demo: Sonic Pi
 - Organisatorisches
-- Erste Klänge (`play`, `sleep`, `live_loop`')
+- Demo und Einführung in Sonic Pi
+- Erste Klänge (`play`, `sleep`,`attack`, `release`, `sustain` und `live_loop`')
+- Hausaufgabe: Experimentiert mit `play`, `sleep`,`attack`, `release`, `sustain` (ohne Schleife)
 
 ### Ressourcen
 
@@ -34,8 +35,9 @@ Datum: 30.10.2019
 
 - Präsentation der Hausaufgabe vom 16.10.
 - Referat: Synthesizer (Grundlagen, Bestand in Sonic Pi)
-- `live_loop`, `tick`, `look`
+- `use/with_synth`, `use/with_synth_defaults`, `live_loop`, `tick`, `look`
 - Pair Programming
+- Hausaufgabe: Baut einen einfachen Sequencer mit `tick` und `look`, `if` oder `amp`
 
 ### Referat
 
@@ -67,6 +69,7 @@ Datum: 13.11.2019
 - Sample-Parameter und Slicing
 - Synchronisation von Live-Loops (Codebeispiele mit Erläuterungen)
 - Pair Programming
+- Hausaufgabe: Arbeit mit einem selbstaufgenommenen oder mitgelieferten Sample
 
 ### Referat
 
@@ -91,6 +94,7 @@ Datum: 27.11.2019
 - Linearer Ablauf mit `in_thread`
 - Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde und Akkordfolgen (kurze Einführung in die Musiktheorie mit Sonic Pi)
 - Pair Programming
+- Hausaufgabe: Verwendet einen einzelnen Ton oder eine einfache Melodie als Grundlage, dann  Soundmanipulation nur mit einem oder zwei Filtern, Automatisierung mithilfe von `tick` und 'look'
 
 ### Referat
 
@@ -112,6 +116,7 @@ Datum: 11.12.2019
 - Referat: Elektronische Musik I am Beispiel von "Kontakte" von Karlheinz Stockhausen
 - Wiederholung des Materials aus vorhergehenden Sessions (Tonfolgen, Effekte, `live_loop`, `in_thread` etc.)
 - Pair Programming
+- Hausaufgabe: Spaß mit einem Sample, Echo und/oder Reverb
 
 ### Referat
 
@@ -132,6 +137,7 @@ Datum: 08.01.2020
 - Referat: Elektronische Musik II, "Advice to clever children": Aphex Twin, Plasticman, Scanner, Daniel Pemberton u.a.
 - Musikalische Analyse und Nachbau in Sonic Pi ([SonicVisualizer](https://github.com/mbutz/sonicpi-leuphana-ws1617/tree/master/sonic-visualiser), Codebeispiele und Erläuterungen zu Nachbau von [Digital Bubblebath](https://www.youtube.com/watch?v=Fy8h3kSef1E)/[Nachbau](https://soundcloud.com/mbutz/digital-bubblebath) und [Otaku](https://www.youtube.com/watch?v=OYusX7V1SaI)/[Nachbau](https://soundcloud.com/mbutz/otaku-1-from-series-rec-with-sonic-pi))
 - Pair Programming
+- Hausaufgabe: Freude mit Skalen und/oder Akkorden
 
 ### Referat
 
