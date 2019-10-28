@@ -175,12 +175,12 @@ Datum: 22.01.2020
 ### Live Coding
 
 * Sam Aaron, YouTube Channel, https://www.youtube.com/watch?v=KJPdbp1An2s
-* Martin Butz,  Making Music with Text: Audible Programming with Sonic Pi (Live Coding & Presentation), https://media.ccc.de/v/sonoj2018-1806-sonic-pi 
-* Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction on https://soundcloud.com/mbutz/tracks
 * Alexandre rANGEL 'bit crusher' Sonic Pi live coding, https://www.youtube.com/watch?v=7Yr-HGRikRg
 * Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com/watch?v=a1RxpJkvqpY
 * Earth To Abigail, Jungle Rhythms - Live Coding Session with Sonic Pi
 https://m.youtube.com/watch?v=AuNNYn2BQYU
+* Martin Butz,  Making Music with Text: Audible Programming with Sonic Pi (Live Coding & Presentation), https://media.ccc.de/v/sonoj2018-1806-sonic-pi 
+* Martin Butz, (mostly) live coded experiments and tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction on https://soundcloud.com/mbutz/tracks
 * All things livecoding - A curated list of livecoding languages and tools, https://github.com/lvm/awesome-livecoding/
 * Bericht über Live-Coding im Deutschlandfunk vom 18.10.2016, http://www.deutschlandfunk.de/live-coding-konferenz-die-leute-koennen-sehen-wie-musik.807.de.html?dram:article_id=368890
 * Toplap - Home of Live Coding, http://toplap.org/
