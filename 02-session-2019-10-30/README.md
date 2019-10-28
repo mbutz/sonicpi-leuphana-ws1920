@@ -8,8 +8,8 @@ Eine Kurzeinführung im Ordner [sonic-visualiser](https://github.com/mbutz/sonic
 
 Diese beiden folgenden Ordner enthalten MP3-Klangdateien, die mit Sonic Pi aufgenommen wurden, sowie dazugehörige Dateien für den Sonic Visualiser (mit Dateiendung *.sv):
 
-* [Wellenformen](https://github.com/mbutz/sonicpi-leuphana-ws1819/tree/master/02-session-2019-10-30/sonic-visualizer/wave-forms)
-* [Hüllkurve, ADSR-Envelope](https://github.com/mbutz/sonicpi-leuphana-ws1819/tree/master/02-session-2019-10-30/sonic-visualizer/adsr)
+* [Wellenformen](https://github.com/mbutz/sonicpi-leuphana-ws1920/tree/master/02-session-2019-10-30/sonic-visualizer/wave-forms)
+* [Hüllkurve, ADSR-Envelope](https://github.com/mbutz/sonicpi-leuphana-ws1920/tree/master/02-session-2019-10-30/sonic-visualizer/adsr)
 
 Beispiele der Klangspektren unterschiedlicher Musikinstrumente finden sich unter: [ETHZ, Gelenktes Entdeckendes Lernen im Physikunterricht, Analyse von Klangspektren](http://www.aplu.ch/overtone/hauser/). Die X-Achse zeigt die Lautstärke der jeweiligen Obertöne, die Y-Achse die Frequenz bzw. Tonhöhe. Aufgabe: Vergleich der Klangspektren einer [Violine](http://www.aplu.ch/overtone/hauser/violine.gif) mit dem einer [Altflöte](http://www.aplu.ch/overtone/hauser/altfloete.gif) (die Angaben der Millisekunden unterhalb der Abbildung beziehen sich auf den Zeitpunkt innerhalb der [Klangdateien]:(http://www.aplu.ch/overtone/hauser/audio.zip), an dem das Spektrum aufgenommen wurden).
 
