@@ -92,7 +92,7 @@ Datum: 27.11.2019
 - Referat: Filter und Effekte in Sonic Pi
 - Synchronisation von `live_loops`
 - Linearer Ablauf mit `in_thread`
-- Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde und Akkordfolgen (kurze Einführung in die Musiktheorie mit Sonic Pi)
+- Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde und Akkordfolgen (kurze Einführung in die Musiktheorie mit Sonic Pi, siehe dazu: https://tobyrush.com/theorypages/
 - Pair Programming
 - Hausaufgabe: Verwendet einen einzelnen Ton oder eine einfache Melodie als Grundlage, dann  Soundmanipulation nur mit einem oder zwei Filtern, Automatisierung mithilfe von `tick` und 'look'
 
@@ -218,6 +218,11 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 ### Midi & OSC (Open Sound Control)
 
 * This MIDI tutorial will help you to understand how you can use the MIDI language to control any device that uses the MIDI protocol, http://www.music-software-development.com/midi-tutorial.html
+
+### Ergänzende Software
+
+* BlackHole Virtual Audio Driver: BlackHole is a modern MacOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency: https://github.com/ExistentialAudio/BlackHole/ und https://in-thread.sonic-pi.net/t/great-loopback-program-for-macos/2973
+* Helm software synthesizer: https://tytel.org/helm/
 
 ### Kreativität & Ästhetik
 
