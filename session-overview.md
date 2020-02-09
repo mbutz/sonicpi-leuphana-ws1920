@@ -127,6 +127,8 @@ Datum: 11.12.2019
 - WDR3 Studio Elektronische Musik Stockhausen - Kontakte, Radio-Feature online:  https://www.youtube.com/watch?v=kBP1v29cx60
 - Karlheinz Stockhausen (1978): Die vier Kriterien der elektronischen Musik, in: Texte zur Musik, Bd. 4, Köln: DuMont, S. 360-401; als Skript eines Vortrag vom 14.09.72 online: http://www.elektropolis.de/ssb_story_stockhausen.htm; zum 1. Kriterium "Die Komposition im musikalischen Zeitnkontinuum": https://youtu.be/JiNKlhspdKg?t=612
 - The Earth-Shaking Instrument Stockhausen Used | Rohde & Schwarz UBM, Hainbach, https://www.youtube.com/watch?v=En24uIjiGsg
+- Analysis, explanation and personal impressions of the works of the avant-garde composer Karlheinz Stockhausen. KONTAKTE - Electronic Music Techniques, http://stockhausenspace.blogspot.com/2018/03/kontakte-electronic-music-techniques.html?m=1
+- Sirius FM - Expedition an den Bandtellerrand, WDR 3 Hörspiel. 11.01.2020. 53:13 Min: Ein Expeditionsteam fliegt vom Sirius zur Erde. Seine Mission: Die Suche nach dem "Studio für Elektronische Musik", dem sagenumwobenen Soundlabor im WDR. Ein Hybrid aus Reportage und Science-Fiction-Hörspiel u. a. mit O-Tönen von Karlheinz Stockhausen. Von Ulrich Bassenge und Philip Stegers, WDR 2017
 - Polyrhythms; a presentation of Adam Neely about how the harmony of the spheres, Isaac Newton, and polyhythms are connected at Berlin, Ableton Loop, March 27, 2018, http://cdm.link/2018/03/watch-ableton-loop-talk-connects-polyrhythms-synesthesia/ (insbesondere zum 1. Kriterium der elektronischen Musik nach Stockhausen)
 
 ## Session 6: Elektronische Musik II: Electronica, musikalische Analyse
@@ -145,7 +147,7 @@ Datum: 08.01.2020
 
 ### Ressourcen
 
-- Interview mit Karlheinz Stockhausen, 'Advice to clever children', "The Wire", November 1995, http://www.stockhausen.org/ksadvice.html
+- Interview mit Karlheinz Stockhausen, 'Advice to clever children', "The Wire", November 1995, https://utah.instructure.com/files/44337462/download?download_frd=1
 - Karlheinz Stockhausen, Gesang der Jünglinge, https://www.youtube.com/watch?v=nffOJXcJCDg
 
 ## Session 7: Sonic Pi mit Midi & OSC erweitern - Rückblick

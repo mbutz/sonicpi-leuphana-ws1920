@@ -3,35 +3,40 @@
 
 use_bpm 120
 
+use_cue_logging false
+use_debug false
+use_midi_logging false
+use_osc_logging false
+
 # Download sample and adjust path to your environement
 # http://www.freesound.org/people/kendallbear/sounds/123804/
-clap = "~/projects/sonicpi/github/leuphana-ws1819/online/session-06-2019-01-23/Otaku/"
-
+clap = "~/projects/sonicpi/github/leuphana-ws1920/online/06-session-2020-01-08/Otaku/"
 # Mixer ----------------------------------------------------------------------------
-run_chewing = 0
-run_perc_base = 0
-run_bassline = 1
-run_perc = 1
-run_swing = 1
-run_perc_support = 1
-run_organ = 1
-run_organ_support = 0
+run_organ = 0
 run_flitter = 0
 run_echoes = 0
-run_strings = 1
+run_chewing = 0
+run_perc_base = 0
+run_bassline = 0
+
+run_perc = 0
+run_swing = 0
+run_perc_support = 0
+run_organ_support = 0
+run_strings = 0
 run_strings_support = 0
 
 organ_vol_master = 1
 organ_support_vol_master = 0.75
 echoes_vol_master = 1
 flitter_vol_master = 0.75
-bass_vol_master = 4
+bass_vol_master = 8
 chew_vol_master = 0.75
 swing_vol_master = 1
 flitter_vol_master = 0.5
 perc_vol_master = 2
-strings_vol_master = 1.0
-strings_support_vol_master = 1
+strings_vol_master = 1.5
+strings_support_vol_master = 1.25
 
 # Metro ----------------------------------------------------------------------------
 
@@ -466,7 +471,8 @@ live_loop :strings_support, sync: :metro do
   use_synth :fm
   use_synth_defaults release: 0.25, depth: 2, divisor: 2, amp: 1 * strings_support_vol_master
   
-  sleep 0.25
+  sleep 0.125
+  #sleep 0.25
   with_fx :reverb, room: 0.75, mix: 0.5 do
     play_pattern_timed \
       [:c7, :bb6, :a6, :f6, :d6, :f6, :d6, :c6, :f6, :g5, :f6, :e6, :e6, :c7, :e6],
