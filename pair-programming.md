@@ -33,4 +33,5 @@ WICHTIG: Denkt daran, dass wir zwar Code schreiben, letztlich jedoch Töne, Klä
 
 ## Ressourcen
 
-Williams, Laurie; Kessler, Robert (1999): All I Really Need to Know about Pair Programming I Learned in Kindergarten, online unter: https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF (letzter Abruf: 13.10.15)
+* Williams, Laurie; Kessler, Robert (1999): All I Really Need to Know about Pair Programming I Learned in Kindergarten, online unter: https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF (letzter Abruf: 13.10.15)
+* Pedagogy Quick ReadsPair programming supports learners to produce better solutions to complex programming problems, https://raspberrypi-education.s3-eu-west-1.amazonaws.com/Quick+Reads/Pedagogy+Quick+Read+3+-+Pair+Programming.pdf, National Centre for Computing Education, Raspberry Pi
