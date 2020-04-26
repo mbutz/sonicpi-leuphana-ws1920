@@ -162,7 +162,7 @@ Datum: 22.01.2020
 
 ---
 
-## Ressources and Good Reads zur Ergänzung im Seminar
+## Ergänzende Literatur und Links (Ressources and Good Reads)
 
 Über die Jahre habe ich Ressourcen gesammelt, auf die ich auch immer wieder selbst zurückgreife. Die Themen umfassen u. a.: 
 
