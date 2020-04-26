@@ -162,7 +162,7 @@ Datum: 22.01.2020
 
 ---
 
-## Ergänzende Literatur und Links (Ressources and Good Reads)
+## Ergänzende Literatur und Links (Resources and Good Reads)
 
 Über die Jahre habe ich Ressourcen gesammelt, auf die ich auch immer wieder selbst zurückgreife. Die Themen umfassen u. a.: 
 
