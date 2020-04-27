@@ -73,6 +73,11 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 * Bense, Arne (2016): Live – eine gelöschte Unterscheidung, Blogbeitrag vom 12.08.2016, letzter Abruf am: 10.10.2016, https://netzpolitik.org/2016/live-eine-geloeschte-unterscheidung/
 * as bedeutet eigentlich „live“? Obwohl die Beantwortung dieser Frage alles andere als trivial ist, geistert der Begriff durch die Welt der elektronischen Musik und trennt die Szene in elektronische Live- und DJ-Culture.
 * Drum Patterns for Electronic Music, http://subaqueousmusic.com/drum-patterns-for-electronic-music/
+* SAE: Electronic music production workshop with Gregor Zemljič:
+  * Part 1: https://www.youtube.com/watch?v=SqNeEXgjgfY
+  * Part 2: https://www.youtube.com/watch?v=M85csT6MUvc
+  * Part 3: https://www.youtube.com/watch?v=Dg5FF8cYR1g
+  * Part 4: https://www.youtube.com/watch?v=TmDNPBUvczk
 
 ## General Resources
 
