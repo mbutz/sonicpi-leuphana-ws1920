@@ -71,8 +71,9 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 ## Creativity and Aesthetics
 
 * eSantis, Dennis (2015): Making Music. 74 Creative Strategies for Electronic Music Producers, Berlin: Ableton.
-* Bense, Arne (2016): Live – eine gelöschte Unterscheidung, Blogbeitrag vom 12.08.2016, letzter Abruf am: 10.10.2016, https://netzpolitik.org/2016/live-eine-geloeschte-unterscheidung/
-* as bedeutet eigentlich „live“? Obwohl die Beantwortung dieser Frage alles andere als trivial ist, geistert der Begriff durch die Welt der elektronischen Musik und trennt die Szene in elektronische Live- und DJ-Culture.
+* Bense, Arne (2016): Live – eine gelöschte Unterscheidung, Blogbeitrag vom
+  12.08.2016, letzter Abruf am: 10.10.2016,
+  https://netzpolitik.org/2016/live-eine-geloeschte-unterscheidung/; was bedeutet eigentlich „live“? Obwohl die Beantwortung dieser Frage alles andere als trivial ist, geistert der Begriff durch die Welt der elektronischen Musik und trennt die Szene in elektronische Live- und DJ-Culture.
 * Drum Patterns for Electronic Music, http://subaqueousmusic.com/drum-patterns-for-electronic-music/
 * SAE: Electronic music production workshop with Gregor Zemljič:
   * Part 1: https://www.youtube.com/watch?v=SqNeEXgjgfY
