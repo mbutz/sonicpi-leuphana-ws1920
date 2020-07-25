@@ -100,3 +100,5 @@ https://m.youtube.com/watch?v=AuNNYn2BQYU
 * FLStudioMusic offers one of the biggest archive of free sample packs featuring one-shots, sound effects, vocals, foley and much more. http://www.flstudiomusic.com/category/free-sample-packs
 * The Flipside (Forum), February 12, 2009 (ich weiss nicht, wie aktuell diese Liste ist), http://www.theflipsideforum.com/index.php?topic=11431.0
 * The Bedroom Producers Blog, an online magazine about cheap and affordable music making software, hardware and other music production tools. http://bedroomproducersblog.com/category/sample-packs/
+* Virtual Playing Orchestra: This is a full, free orchestral sample library featuring section and solo instruments for woodwinds, brass, strings and percussion. http://virtualplaying.com/virtual-playing-orchestra/
+* Chamber Orchestra 2.1.1: VSCO 2 Community Edition (CE) is an open-source, open-ended subset of the main VSCO 2 library designed for young composers, hobbyist sample library developers, and students around the world to create better sounding music for free and learn more about the process of sample library development. https://vis.versilstudios.com/vsco-community.html
